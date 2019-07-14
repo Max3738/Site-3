@@ -201,7 +201,7 @@ main section.articles .left-articles article a.btn {
 	text-transform: uppercase;
 	border: 1px solid #48974c;
 	margin-left: 24px;
-	display: flex;
+	display: inline-flex;
 	width: 157px;
 	height: 56px;
 	transition: .3s ease-out;
